@@ -32,19 +32,35 @@
     - language: python
     - compiler: 
 
+| 문제 | 참여 |
+|-----|----|
+| 그리디|  |
+|구현 |  |
+
 ### 2. hello
     - IDE: visual studio
     - language: python, c/c++
     - compiler: gcc
-
+| 문제 | 참여 |
+|-----|----|
+| 그리디| |
+|구현 | |
 ### 3. hanjung 
     - IDE: NVIM
     - language: C++
     - compiler: gcc
     
+| 문제 | 참여 |
+|-----|----|
+| 그리디| |
+|구현 | |
 ### 4. comeheredart
     - IDE: repl.it
     - language: python
     - compiler: 
-
+    
+| 문제 | 참여 |
+|-----|----|
+| 그리디|  |
+|구현 |  |
 
