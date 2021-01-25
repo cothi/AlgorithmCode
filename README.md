@@ -35,7 +35,7 @@
 
 ### 2. hello
     - IDE: visual studio
-    - Language: c++
+    - Languae: c++
     - Compiler: msvc++
 
 ### 3. hanjung
@@ -47,5 +47,3 @@
     - IDE: repl.it
     - Language: python
     - Interpreter
-
-
