@@ -32,7 +32,9 @@
     - compiler: 
 
 ### 2. hello
-
+    - IDE: 
+    - language: python, c/c++
+    - compiler
 
 ### 3. hanjung 
     - IDE: NVIM
@@ -40,8 +42,8 @@
     - compiler: gcc
     
 ### 4. comeheredart
-    - IDE:
-    - language:
+    - IDE: repl.it
+    - language: python
     - compiler: 
 
 
