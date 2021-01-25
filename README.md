@@ -44,10 +44,6 @@
     - Compiler: gcc
 
 
-### 4. comeheredart
-    - IDE:
-    - language:
-    - compiler:
 
 ### 4. comeheredart
     - IDE: repl.it
