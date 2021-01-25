@@ -27,19 +27,19 @@
 ---
 ## 참여자
 
-1. yeonjungin (애붕이)
-- IDE: Jupyter NoteBook
-- language: python
+### 1. yeonjungin (애붕이)
+    - IDE: Jupyter NoteBook
+    - language: python
 
 
-2. hello
+### 2. hello
 
 
-3. hanjung (로로롤)
-- IDE: NVIM
-- language: C++
+### 3. hanjung (로로롤)
+    - IDE: NVIM
+    - language: C++
 
-4. comeheredart
-- IDE:
-- language:
+### 4. comeheredart
+    - IDE:
+    - language:
 
