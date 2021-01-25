@@ -2,7 +2,7 @@
 
 
 
-## 📅 일정표 
+## 📅 일정표
 
 
 |일정      |     문제| 참여 | 참고 |
@@ -19,7 +19,7 @@
 
 ## 멘토
 
-1. [**tony9402**](https://github.com/tony9402)   
+1. [**tony9402**](https://github.com/tony9402)
 
 2. [**inclue**](https://github.com/inclue)
 
@@ -27,7 +27,7 @@
 ---
 ## 참여자
 
-### 1. yeonjungin 
+### 1. yeonjungin
     - IDE: Jupyter NoteBook
     - language: python
     - Interpreter
@@ -38,15 +38,15 @@
     - Language: c++
     - Compiler: msvc++
 
-### 3. hanjung 
+### 3. hanjung
     - IDE: NVIM
     - Language: C++
     - Compiler: gcc
-    
+
 
 ### 4. comeheredart
     - IDE: repl.it
     - Language: python
     - Interpreter
-    
+
 
