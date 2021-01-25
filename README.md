@@ -43,8 +43,6 @@
     - Language: C++
     - Compiler: gcc
 
-
-
 ### 4. comeheredart
     - IDE: repl.it
     - Language: python
