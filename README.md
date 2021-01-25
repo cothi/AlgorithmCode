@@ -27,7 +27,7 @@
 ---
 ## 참여자
 
-### 1. yeonjungin (애붕이)
+### 1. yeonjungin 
     - IDE: Jupyter NoteBook
     - language: python
 
@@ -35,7 +35,7 @@
 ### 2. hello
 
 
-### 3. hanjung (로로롤)
+### 3. hanjung 
     - IDE: NVIM
     - language: C++
 
