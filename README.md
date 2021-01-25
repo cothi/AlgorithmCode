@@ -19,7 +19,8 @@
 
 ## 멘토
 
-1. [**tony9402**](https://github.com/tony9402)
+1. [**tony9402**](https://github.com/tony9402)   
+
 2. [**inclue**](https://github.com/inclue)
 
 
@@ -32,9 +33,9 @@
     - compiler: 
 
 ### 2. hello
-    - IDE: 
+    - IDE: visual studio
     - language: python, c/c++
-    - compiler
+    - compiler: gcc
 
 ### 3. hanjung 
     - IDE: NVIM
