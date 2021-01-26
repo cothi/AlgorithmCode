@@ -1,0 +1,12 @@
+*
+!.gitkeep
+!.gitignore
+!*.c
+!*.cpp
+!*.cc
+!*.h
+!*.hpp
+!*.py
+!*.py3
+!*.java
+!*.ipynb
