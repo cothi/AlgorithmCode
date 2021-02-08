@@ -11,6 +11,6 @@
 !*.java
 !*.ipynb
 !.백준
-!/jiung/
-!/eboong/
-!/comeheredart/
+!.jiung
+!.eboong
+!.comeheredart
