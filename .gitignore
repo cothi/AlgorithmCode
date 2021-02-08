@@ -1,6 +1,7 @@
 *
 !.gitkeep
 !.gitignore
+!*.md
 !*.c
 !*.cpp
 !*.cc
@@ -10,7 +11,7 @@
 !*.py3
 !*.java
 !*.ipynb
-!/백준/
-!/jiung/
-!/eboong/
-!/comeheredart/
+!/백준
+!/jiung
+!/eboong
+!/comeheredart
