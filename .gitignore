@@ -10,7 +10,7 @@
 !*.py3
 !*.java
 !*.ipynb
-!/백준/
+!.백준
 !/jiung/
 !/eboong/
 !/comeheredart/
