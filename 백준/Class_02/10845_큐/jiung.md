@@ -1,7 +1,7 @@
 ## 10845 큐 
 
 ### 문제링크
-https://www.acmicpc.net/problem/1978
+https://www.acmicpc.net/problem/10845
 
 
 ### 문제풀이 및 주석
