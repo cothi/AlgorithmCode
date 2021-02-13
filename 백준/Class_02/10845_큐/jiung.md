@@ -4,6 +4,16 @@
 https://www.acmicpc.net/problem/10845
 
 
+### 시사점
+
+
+### 시간복잡도
+
+
+### 함수 리스트
+
+
+
 ### 문제풀이 및 주석
 
 ```c++
@@ -146,35 +156,9 @@ int main()
 
 ```
 
-<br><br>
 
-## 핵심 코드에 대한 설명
-```
-while (N) {
-        cin >> command;
-        
-        if(command == "push") {
-            cin >> PushNum;
-            push(PushNum);
-        } else if (command == "pop") {
-            pop();
-        } else if (command == "size") {
-            size();
-        } else if (command == "empty") {
-            empty();
-        } else if (command == "front") {
-            front();
-        } else if (command == "back") {
-            back();
-        }
-        N -= 1;
-    }
-```
-
-> 해당 코드에서 명령어를 받았을 때, 해당 함수를 실행합니다.
 
 ## 까다로웠던점
-
 ```
 while (N) {
         cin >> command;
@@ -187,6 +171,7 @@ while (N) {
 }
 ```
 > push를 받았을 때, PushNum을 따로 적어줘야해서 까다로웠습니다.
+
 
 ## 코드 리뷰
 ```
