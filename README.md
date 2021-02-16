@@ -1,14 +1,12 @@
 #  `코딩테스트 준비`, 문제 풀이 및 업로드 저장소 시즌 1
 
 <br>
-kakatalk link
-https://open.kakao.com/o/gOIcSvVc
+[kakatalk link]: https://open.kakao.com/o/gOIcSvVc
 
 <br>
 ## 📅 일정표
 
 
-<br>
 ## 시즌은 달마다 바뀝니다.
 <br>
 
