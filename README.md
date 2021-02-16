@@ -63,7 +63,7 @@
 
 <table>
     <tr>
-        <td align="center" width="130px" height="150px">
+        <td align="center" width="80px" height="80px">
             <a href="https://github.com/hanjiung"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/51845043?s=460&u=dd6031ec01a7019f104e547fbc5b0218929be893&v=4" /></a>
             <br /> 
             <a href="https://github.com/hanjiung">hanjiung</a>
