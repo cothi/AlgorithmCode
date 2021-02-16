@@ -58,9 +58,7 @@
 
 <br><br>
 ## 제출 서식
-
-https://github.com/hanjiung/AlgorithmCode/blob/main/season1/%EB%B0%B1%EC%A4%80/Class_02/10845_%ED%81%90/jiung.md
-
+[예시](https://github.com/hanjiung/AlgorithmCode/blob/main/season1/%EB%B0%B1%EC%A4%80/Class_02/10845_%ED%81%90/jiung.md)
 > 시간복잡도가 알기 모호할 경우, 생략가능
 
 <br><br>
