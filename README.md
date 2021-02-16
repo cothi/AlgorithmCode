@@ -102,19 +102,50 @@
     </tr>
     <tr>
         <td align="center" width="130px" height="150px">
-            <a href="https://github.com/pkw5240"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/1936149?s=460&v=4" /></a>
+            <a href="https://github.com/Thedum2"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76659528?s=460&v=4" /></a>
             <br /> 
-            <a href="https://github.com/pkw5240">pkw5240</a>
+            <a href="https://github.com/Thedum2">Thedum2</a>
         </td>
         <td>
 <pre>
-- hello
-- IDE : Visual Studio
-- Language : C++
-- Compiler : MSVC++
+- 더듬이
+- IDE : ?
+- Language : python
+- Compiler : ?
 </pre>
         </td>
     </tr>
+    <tr>
+        <td align="center" width="130px" height="150px">
+            <a href="https://github.com/gongyean"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/70122776?s=400&v=4" /></a>
+            <br /> 
+            <a href="https://github.com/gongyean">gongyean</a>
+        </td>
+        <td>
+<pre>
+- 공연
+- IDE : ?
+- Language : python
+- Compiler : ?
+</pre>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="130px" height="150px">
+            <a href="https://github.com/yetree"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/9885116?s=460&u=89d70ba7fdb594b5b6663b12dfb606e85c80ffb1&v=4" /></a>
+            <br /> 
+            <a href="https://github.com/yetree">gongyean</a>
+        </td>
+        <td>
+<pre>
+- 뇽
+- IDE : ?
+- Language : python
+- Compiler : ?
+</pre>
+        </td>
+    </tr>
+    
 </table>
 
 [How To Upload]: https://github.com/hanjiung/AlgorithmCode/wiki
