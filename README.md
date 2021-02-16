@@ -50,20 +50,25 @@
 </table>
 
 
-<br>
+<br><br>
 
 ## 코드 리뷰 순서
 
 코딩을 배우자 -> 더듬이 -> 공연 -> 코딩을 배우자
 
-
+<br><br>
 ## 제출 서식
 
 https://github.com/hanjiung/AlgorithmCode/blob/main/season1/%EB%B0%B1%EC%A4%80/Class_02/10845_%ED%81%90/jiung.md
 
 > 시간복잡도가 알기 모호할 경우, 생략가능
 
+<br><br>
+## 제출 기간이 밀릴 시
+깃허브 이슈 등록
+https://github.com/hanjiung/AlgorithmCode/issues/12
 
+<br><br>
 ## 참여자
 
 <table>
