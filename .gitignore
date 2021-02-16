@@ -12,6 +12,7 @@
 !*.java
 !*.ipynb
 !**/
+!*.txt
 !/백준/
 !/jiung
 !/eboong
