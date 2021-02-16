@@ -65,8 +65,9 @@ https://github.com/hanjiung/AlgorithmCode/blob/main/season1/%EB%B0%B1%EC%A4%80/C
 
 <br><br>
 ## 제출 기간이 밀릴 시
-깃허브 이슈 등록
-https://github.com/hanjiung/AlgorithmCode/issues/12
+깃허브 이슈 등록<br>
+
+[예시]: https://github.com/hanjiung/AlgorithmCode/issues/12
 
 <br><br>
 ## 참여자
