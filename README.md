@@ -139,7 +139,7 @@
         <td align="center" width="80px" height="80px">
             <a href="https://github.com/yetree"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/9885116?s=460&u=89d70ba7fdb594b5b6663b12dfb606e85c80ffb1&v=4" /></a>
             <br /> 
-            <a href="https://github.com/yetree">gongyean</a>
+            <a href="https://github.com/yetree">yetree</a>
         </td>
         <td>
 <pre>
