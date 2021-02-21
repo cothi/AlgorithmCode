@@ -21,6 +21,9 @@
 
 - 시즌에 해당한 폴더에 자신의 해당하는 아이디 폴더에 날짜별로 소스코드를 넣고 업로드 해주세요. 
 - 모르는 문제나 까다로운 이론은 카카오톡 채팅방이나 [Discussions][Discussion]을 통해서 도움을 얻을 수 있습니다.
+- 카카오톡 닉네임 옆에 (사용할 언어 또는 휴식 시에는 비참여라고 괄호를 넣어주세요)
+- 방장에게 깃허브 아이디를 알려주세요(권한을 줘야합니다.)
+
 
 <br><br>
 
@@ -58,13 +61,13 @@
 
 <br><br>
 ## 제출 서식
-[예시](https://github.com/hanjiung/AlgorithmCode/blob/main/season1/%EB%B0%B1%EC%A4%80/Class_02/10845_%ED%81%90/jiung.md)
+[예시 링크 클릭!](https://github.com/hanjiung/AlgorithmCode/blob/main/season1/%EB%B0%B1%EC%A4%80/Class_02/10845_%ED%81%90/jiung.md)
 > 시간복잡도가 알기 모호할 경우, 생략가능
 
 <br><br>
 ## 제출 기간이 밀릴 시
 ##### 깃허브 이슈 등록
-[예시](https://github.com/hanjiung/AlgorithmCode/issues/12)
+[예시 링크 클릭!](https://github.com/hanjiung/AlgorithmCode/issues/12)
 
 <br><br>
 ## 참여자
