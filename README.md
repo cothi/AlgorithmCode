@@ -58,10 +58,10 @@
 ## 코드 리뷰 순서
 
 > 파이썬
-> 공연 -> 식빵공주 ->  여니 -> 뇽 -> 
+> 공연(gongyean) -> 식빵공주(comeheredart) ->  여니(yeonjungin) -> 뇽(yetree) -> 공연(gongyean)
 
 > C++, 자바
-> 코딩을 배우자(Jiung) -> 세번째 초보 -> 더듬이 -> 코딩을 배우자
+> 코딩을 배우자(Jiung) -> 세번째 초보 -> 더듬이(Thedum2) -> 코딩을 배우자(Jiung)
 
 
 <br><br>
