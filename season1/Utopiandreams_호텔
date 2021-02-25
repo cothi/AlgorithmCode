@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+  int T,H,W,N;
+  cin>>T;
+  int *X=(int *)malloc(sizeof(int)*T);
+  int *Y=(int *)malloc(sizeof(int)*T);
+  for(int i=0;i<T;i++){    
+    cin>>H>>W>>N;
+    if(N%H==0){
+      X[i]=H;
+      Y[i]=N/H;
+    }
+    else{
+      X[i]=N%H;
+      Y[i]=N/H+1;
+    }
+  }
+  for(int i=0;i<T;i++){
+    if(Y[i]>9)  cout<<X[i]<<Y[i]<<endl;
+    else cout<<X[i]<<"0"<<Y[i]<<endl;
+  }
+  return 0;
+}
