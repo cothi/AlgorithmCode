@@ -199,9 +199,9 @@ Ccprhtn <-> 뇽
         <td>
 <pre>
 - Cpprhtn
-- IDE : ?
+- IDE : VS
 - Language : C++, python
-- Compiler : ?
+- Compiler : GCC
 </pre>
         </td>
     </tr>
