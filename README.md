@@ -72,10 +72,18 @@
 ## 코드 리뷰 순서
 
 ##### 파이썬
-> 공연(gongyean) -> 식빵공주(comeheredart) ->  여니(yeonjungin) -> 뇽(yetree) -> 공연(gongyean)
+식빵곤듀 <-> 뇽
 
-##### C++, 자바
-> 코딩을 배우자(Jiung) -> 세번째 초보 -> 더듬이(Thedum2) -> 코딩을 배우자(Jiung)
+
+
+##### C++
+뚜들뚜들 <-> 코딩을 배우자
+더듬이 <-> 코딩을배우자
+Ccprhtn <-> 뇽
+
+##### 자바
+삼백닭 <-> 기스
+세번째 초보 <-> 초코린
 
 
 <br><br>
@@ -178,6 +186,21 @@
 - 뇽
 - IDE : ?
 - Language : python
+- Compiler : ?
+</pre>
+        </td>
+    </tr>
+ <tr>
+        <td align="center" width="80px" height="80px">
+            <a href="https://github.com/cpprhtn"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/63298243?s=460&u=d5ccce2db1920d515bb4f46f7a62b7a8721e1949&v=4" /></a>
+            <br /> 
+            <a href="https://github.com/cpprhtn">yetree</a>
+        </td>
+        <td>
+<pre>
+- Cpprhtn
+- IDE : ?
+- Language : C++, python
 - Compiler : ?
 </pre>
         </td>
