@@ -194,7 +194,7 @@ Ccprhtn <-> 뇽
         <td align="center" width="80px" height="80px">
             <a href="https://github.com/cpprhtn"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/63298243?s=460&u=d5ccce2db1920d515bb4f46f7a62b7a8721e1949&v=4" /></a>
             <br /> 
-            <a href="https://github.com/cpprhtn">yetree</a>
+            <a href="https://github.com/cpprhtn">Cpprhtn</a>
         </td>
         <td>
 <pre>
