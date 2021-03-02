@@ -184,7 +184,7 @@ Ccprhtn <-> 뇽<br>
         </td>
         <td>
 <pre>
-- Cpprhtn
+- 뇽
 - IDE : ?
 - Language : python
 - Compiler : ?
