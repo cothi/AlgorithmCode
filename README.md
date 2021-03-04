@@ -14,7 +14,7 @@
 2. 업로드 방법 ( 복구가 가능하니, 편안하게 사용해도 됩니다.)
 <br>
  - 시즌에 해당한 폴더 경로에서 자신의 깃허브 닉네임의 폴더를 생성합니다.<br>
- - 생성한 폴더안에 계획표(mardown, txt, 등)를 적고 업로드합니다.(예시)[https://github.com/hanjiung/AlgorithmCode/blob/main/season/season2/jiung/2%EC%8B%9C%EC%A6%8C%EB%AA%A9%ED%91%9C.md]<br>
+ - 생성한 폴더안에 계획표(mardown, txt, 등)를 적고 업로드합니다.[예시](https://github.com/hanjiung/AlgorithmCode/blob/main/season/season2/jiung/2%EC%8B%9C%EC%A6%8C%EB%AA%A9%ED%91%9C.md)<br>
  - 소스코드 파일을 계획표에 따라서 폴더에 업로드합니다. (파일 확장자 상관없음)
 
 
