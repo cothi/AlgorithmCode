@@ -1,4 +1,4 @@
-#  `코딩테스트 준비`, 문제 풀이 및 업로드 저장소 시즌 1 👍
+#  `코딩테스트 준비`, 문제 풀이 및 업로드 저장소 시즌 2 👍
 
 [kakao talk link]: https://open.kakao.com/o/gOIcSvVc
 
