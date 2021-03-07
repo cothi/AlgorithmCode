@@ -195,5 +195,7 @@
     
 </table>
 [How To Upload]: https://github.com/hanjiung/AlgorithmCode/wiki<--!>
-[Discussion]:    https://github.com/hanjiung/AlgorithmCode/discussions
 
+
+[Discussion]:    https://github.com/hanjiung/AlgorithmCode/discussions
+[Kakao Link]: https://open.kakao.com/o/gOIcSvVc
