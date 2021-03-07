@@ -198,7 +198,7 @@
 
 
 
-### Ref
+
  [Discussion]:    https://github.com/hanjiung/AlgorithmCode/discussions
-<br>
+ <br>
  [Kakao Link]: https://open.kakao.com/o/gOIcSvVc
