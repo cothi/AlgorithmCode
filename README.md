@@ -197,6 +197,8 @@
 [How To Upload]: https://github.com/hanjiung/AlgorithmCode/wiki<--!>
 
 
-#### [Discussion]:    https://github.com/hanjiung/AlgorithmCode/discussions
+
+### Ref
+ [Discussion]:    https://github.com/hanjiung/AlgorithmCode/discussions
 <br>
-#### [Kakao Link]: https://open.kakao.com/o/gOIcSvVc
+ [Kakao Link]: https://open.kakao.com/o/gOIcSvVc
