@@ -1,0 +1,81 @@
+
+
+/*
+디지털시계
+3의 배수 찾기
+*/
+
+package main
+
+import (
+  "fmt"
+  "strings"
+  "strconv"
+)
+
+func ReturnInt(A []string, B []string) int {
+  var AArray, BArray [3]int
+
+  var ans int = 0
+  var check bool = true
+  for i := 0; i < len(A); i++ {
+    AArray[i], _ = strconv.Atoi(A[i])
+    BArray[i], _ = strconv.Atoi(B[i])
+  }
+  
+  AAInt := A[0] + A[1] + A[2]
+    
+  value, _ := strconv.Atoi(AAInt)
+
+  if value % 3 == 0 { ans += 1 }
+  
+  //fmt.Println(AArray, AAInt)
+  
+  if BArray[0] == AArray[0] && BArray[1] == AArray[1] && BArray[2] == AArray[2] {
+    check = true
+  }
+  for check {
+    AArray[2] += 1
+    if AArray[2] == 60 {
+      AArray[2] = 0
+      AArray[1] += 1
+    }
+
+    if AArray[1] == 60 {
+      AArray[1] = 0
+      AArray[0] += 1
+    }
+
+    if AArray[0] == 24 {
+      AArray[0] = 0
+    }
+   
+    if BArray[0] == AArray[0] && BArray[2] == AArray[2] && BArray[1] == AArray[1] {
+      check = false
+    }
+    AAInt = ""
+    for i := 0; i < 3; i++ {
+      AAInt += strconv.Itoa(AArray[i])
+    }
+    value, _ := strconv.Atoi(AAInt)
+    if value % 3 == 0 { ans += 1 }
+
+   // fmt.Println(AArray, BArray)
+  }
+
+  return ans
+}
+
+
+func main() {
+  
+  for i := 0; i < 3; i++ {
+    var startTime, endTime string
+    fmt.Scanln(&startTime, &endTime)
+    startTimeArray := strings.Split(startTime, ":")
+    endTimeArray := strings.Split(endTime, ":")
+    ans := ReturnInt(startTimeArray, endTimeArray)
+    fmt.Println(ans)
+  } 
+
+  }

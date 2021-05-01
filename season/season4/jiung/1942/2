@@ -1,0 +1,17 @@
+package main
+
+import (
+  "fmt"
+)
+
+
+func main() {
+  const v, k int = 3, 2
+  var twoD [v][k]int
+  twoD[0][0] = 1
+  for i := 0; i < len(twoD); i++ {
+    for k := 0; k < len(twoD[k]); k++ {
+        fmt.Print(twoD[i][k])
+    }
+  }
+}
